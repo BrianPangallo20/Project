@@ -21,6 +21,9 @@ public class CoopThing {
     public static boolean Brian(){ 
     return false;
 }
+    public static boolean Avery(){
+    return false;
+    }
     
     
     
